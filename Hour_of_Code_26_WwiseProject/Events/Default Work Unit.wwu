@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Player_Run" ID="{B4683A16-0721-4570-BD24-B85953CDF8EB}">
+					<ChildrenList>
+						<Action Name="" ID="{5F4F807C-2AE6-4108-BE32-F7F3F1F677AE}" ShortID="1028341675">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Play_Tile" ID="{11F18FE2-18F0-473B-98F7-0AF866981F02}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Play_Checkpoint" ID="{8BB0F323-4581-4DEF-8F6A-DB596D960A78}">
+					<ChildrenList>
+						<Action Name="" ID="{3AEEA045-CBB9-4DF7-98B9-4B3BA8259677}" ShortID="766569033">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Play_Checkpoint" ID="{F9479815-7AA6-4C8A-BE9B-9B18DAD978C1}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Door_Open" ID="{AD69FFD9-E546-473E-89DB-C43C54E6EF12}">
+					<ChildrenList>
+						<Action Name="" ID="{27E8B5EC-B94C-4A50-9BDE-5C52A3FEF309}" ShortID="446059189">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Door_Open" ID="{B78417EA-9342-4F70-9E39-7AC4521ED3BE}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Door_Switch" ID="{A399A9C0-77EB-4838-A0F3-477328B07CD7}">
+					<ChildrenList>
+						<Action Name="" ID="{73AD758F-C1D9-4EDF-8343-966E0735F0D9}" ShortID="1020836797">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Door_Switch" ID="{2D4C104A-EB13-416A-B3E6-0E703DDF1EE4}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Locked_Door" ID="{66B4E77E-9864-435D-81B7-1A79978B7990}">
+					<ChildrenList>
+						<Action Name="" ID="{3957C0B9-CDCB-402D-AA41-EF04060E3486}" ShortID="232386421">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Locked Door" ID="{B28BEC47-E72C-4730-8DF0-08A3EC9B6EE8}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Door_Open_01" ID="{2EDBA1A9-509E-4B9F-B7C3-7A18AA2F2EEC}">
+					<ChildrenList>
+						<Action Name="" ID="{A846F46E-D81D-42E1-8039-83492E3C20A9}" ShortID="1044669654">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Door_Open" ID="{B78417EA-9342-4F70-9E39-7AC4521ED3BE}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Door_Switch_01" ID="{3B7A4802-CBEC-4075-9623-57E56659C649}">
+					<ChildrenList>
+						<Action Name="" ID="{48E6E9E4-E6A3-49E3-BF3C-85E08F576AAB}" ShortID="411772314">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Door_Switch" ID="{2D4C104A-EB13-416A-B3E6-0E703DDF1EE4}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Locked_Door_01" ID="{6716B77D-6B08-4802-82B3-035A100CF0E3}">
+					<ChildrenList>
+						<Action Name="" ID="{BACF2CAF-9715-43DB-AD82-99C3B03B9643}" ShortID="919414721">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Locked Door" ID="{B28BEC47-E72C-4730-8DF0-08A3EC9B6EE8}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Hover_Platform" ID="{BF7AF147-D013-4E2E-8149-82AD2EF4E9A2}">
+					<ChildrenList>
+						<Action Name="" ID="{65648BD7-E173-467C-8A42-D11DBEED8CBF}" ShortID="1045073265">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hover Platform" ID="{08DA8A63-2FDF-49B7-97C8-6D233080FE05}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Far_Left_Island" ID="{20FB2582-22CD-423E-ACE2-12D7124811DF}">
+					<ChildrenList>
+						<Action Name="" ID="{F4A4A2AC-AC4C-43C0-9669-6A7427392F0D}" ShortID="245270152">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Far Left Island" ID="{6A73D98E-1316-480D-9154-8AD730827754}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Middle_Island" ID="{9F4069E5-48BD-43CC-AEB6-F1B6E93CB352}">
+					<ChildrenList>
+						<Action Name="" ID="{7F406FB5-9875-42E0-8649-C89F30CE0E7F}" ShortID="408253931">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Middle Island" ID="{E0E0241A-5DBB-41FA-BF49-8CEFDF7D8557}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Right_Island" ID="{AFDA0696-9485-4CF5-9426-9814EE5F27A9}">
+					<ChildrenList>
+						<Action Name="" ID="{E9AB71A6-77EC-4688-86A8-3B5E1BABCE6C}" ShortID="527892441">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Right Island" ID="{CBAF2358-3010-4054-B290-394DAC275716}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Jump_Boost" ID="{A46682B7-5778-4EDF-A2A8-CD98DD4B8BD5}">
+					<ChildrenList>
+						<Action Name="" ID="{7C52935F-3C64-4251-A4A8-D0E021F15C9C}" ShortID="86756412">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Jump Boost" ID="{CADD6F33-64C3-497C-9F93-CF79DD6C9DA4}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Key_Object" ID="{03C166E3-EB61-4AED-8E50-C575FA4D3468}">
+					<ChildrenList>
+						<Action Name="" ID="{C5532686-4B5B-4B78-B75A-5BC6C1C6D861}" ShortID="463774448">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Key Object" ID="{F8929CB9-7B64-4F50-A25D-9FB1CDEE3453}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Play_Coin" ID="{9BF3F13F-F502-40E0-9A77-955D272A8231}">
+					<ChildrenList>
+						<Action Name="" ID="{412CF6EE-8C6A-4288-BFB7-5C54A4785392}" ShortID="613896954">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Play_Coin" ID="{5C0728F7-7226-469B-A005-E7B1BB89B791}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Play_Gem" ID="{DB0C9FAF-12C6-4D30-8F14-472817868428}">
+					<ChildrenList>
+						<Action Name="" ID="{85D1CA71-2252-472F-A1B1-5CDF595BFAB2}" ShortID="196410808">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Play_Gem" ID="{9C83CB5E-945A-43E6-87B6-71A85E59AD38}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Victory" ID="{68DCB032-62D9-471E-9359-18C0D9BFDE74}">
+					<ChildrenList>
+						<Action Name="" ID="{5C01EDB7-6EB2-4A3E-A85F-25F855B4DF07}" ShortID="720894597">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Victory" ID="{BC85290F-3C89-4EB6-BE14-20CC54825E7F}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Indoor_Ambiance" ID="{A73F45EB-0358-4FA3-BD93-034B0813DF90}">
+					<ChildrenList>
+						<Action Name="" ID="{B83E61C8-5E82-4B65-8DEF-97272816D7B6}" ShortID="1023533991">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Indoor Ambiance" ID="{F85285DB-EDF1-4073-9849-7E9912CA6241}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Outdoor_ambiance_1" ID="{5645CD79-5475-453F-8F04-1420AC46B23A}">
+					<ChildrenList>
+						<Action Name="" ID="{9E2AEC78-391D-4B25-80B0-ED20B7335B30}" ShortID="561862622">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Outdoor ambiance 1" ID="{20731D73-324B-4480-B215-51777ACA83B1}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Surfaces" ID="{F63E05F1-378B-40DF-8450-901CEC998FF5}">
+					<ChildrenList>
+						<Action Name="" ID="{CB15C5F6-212C-4ABE-B45F-5E2457B3BB62}" ShortID="579884152">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Surfaces" ID="{605331C9-8C13-45E3-8373-AF92422AFC93}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Life_movements" ID="{80A0B47B-5890-41F5-88AE-C96B96AE7419}">
+					<ChildrenList>
+						<Action Name="" ID="{B9B1F572-704B-4842-A4D9-F06889177E5F}" ShortID="492074813">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Life movements" ID="{3FF1A6F5-C0A1-4C2C-B222-627A8DDFF41C}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Ball" ID="{EE27DC8A-C0E9-496D-A137-046182EEA9A5}">
+					<ChildrenList>
+						<Action Name="" ID="{51B22DD7-06CA-4436-A958-02B551A93B0B}" ShortID="207056971">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Razor ball" ID="{F7F120B1-5717-4C49-A6AD-A668D31C6E81}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Error" ID="{AE04D54B-545A-459E-9A08-CAFF8AE35EF9}">
+					<ChildrenList>
+						<Action Name="" ID="{FED73B5E-E92D-49B3-88B7-80D917221A1B}" ShortID="180033756">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Error" ID="{39F3C70A-AC55-45BD-9227-201696F9E217}" WorkUnitID="{B9654859-1443-4A74-8157-D55CB2DC26A3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

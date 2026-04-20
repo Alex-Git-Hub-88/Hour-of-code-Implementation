@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2F69EAF9-95E7-41D1-8246-0FD7D2325E2E}" SchemaVersion="119">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{2F69EAF9-95E7-41D1-8246-0FD7D2325E2E}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{8D5452F2-ADB9-49B4-B6ED-B66642DBE521}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Door_Switch_01" ID="{3B7A4802-CBEC-4075-9623-57E56659C649}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Surfaces" ID="{F63E05F1-378B-40DF-8450-901CEC998FF5}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Play_Coin" ID="{9BF3F13F-F502-40E0-9A77-955D272A8231}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Life_movements" ID="{80A0B47B-5890-41F5-88AE-C96B96AE7419}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Far_Left_Island" ID="{20FB2582-22CD-423E-ACE2-12D7124811DF}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Locked_Door" ID="{66B4E77E-9864-435D-81B7-1A79978B7990}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Middle_Island" ID="{9F4069E5-48BD-43CC-AEB6-F1B6E93CB352}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Outdoor_ambiance_1" ID="{5645CD79-5475-453F-8F04-1420AC46B23A}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player_Run" ID="{B4683A16-0721-4570-BD24-B85953CDF8EB}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Error" ID="{AE04D54B-545A-459E-9A08-CAFF8AE35EF9}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Victory" ID="{68DCB032-62D9-471E-9359-18C0D9BFDE74}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Door_Open" ID="{AD69FFD9-E546-473E-89DB-C43C54E6EF12}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Locked_Door_01" ID="{6716B77D-6B08-4802-82B3-035A100CF0E3}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Door_Switch" ID="{A399A9C0-77EB-4838-A0F3-477328B07CD7}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Ball" ID="{EE27DC8A-C0E9-496D-A137-046182EEA9A5}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Key_Object" ID="{03C166E3-EB61-4AED-8E50-C575FA4D3468}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Door_Open_01" ID="{2EDBA1A9-509E-4B9F-B7C3-7A18AA2F2EEC}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Right_Island" ID="{AFDA0696-9485-4CF5-9426-9814EE5F27A9}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Play_Gem" ID="{DB0C9FAF-12C6-4D30-8F14-472817868428}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Play_Checkpoint" ID="{8BB0F323-4581-4DEF-8F6A-DB596D960A78}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Hover_Platform" ID="{BF7AF147-D013-4E2E-8149-82AD2EF4E9A2}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Jump_Boost" ID="{A46682B7-5778-4EDF-A2A8-CD98DD4B8BD5}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Indoor_Ambiance" ID="{A73F45EB-0358-4FA3-BD93-034B0813DF90}" WorkUnitID="{65550F89-5C35-4ABB-95EA-A5E110D3A40A}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,924 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{8D5452F2-ADB9-49B4-B6ED-B66642DBE521}",
+    "Language": "SFX",
+    "Hash": "{227FA3A5-DCF1-7483-0863-AA953ED87916}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "18406024",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Error.wav",
+      "CachePath": "SFX/Error_818F3B66.wem"
+     },
+     {
+      "Id": "28701570",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep tile 3.wav",
+      "CachePath": "SFX/Footstep tile 3_818F3B66.wem"
+     },
+     {
+      "Id": "35634750",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Tile 5.wav",
+      "CachePath": "SFX/Footstep Tile 5_818F3B66.wem"
+     },
+     {
+      "Id": "59755238",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Grass 4.wav",
+      "CachePath": "SFX/Footstep Grass 4_818F3B66.wem"
+     },
+     {
+      "Id": "75423021",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Wood 2.wav",
+      "CachePath": "SFX/Footstep Wood 2_818F3B66.wem"
+     },
+     {
+      "Id": "102449246",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Wood 3.wav",
+      "CachePath": "SFX/Footstep Wood 3_818F3B66.wem"
+     },
+     {
+      "Id": "168620245",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Checkpoint.wav",
+      "CachePath": "SFX/Checkpoint_818F3B66.wem"
+     },
+     {
+      "Id": "177395097",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Fabric 1.wav",
+      "CachePath": "SFX/Fabric 1_818F3B66.wem"
+     },
+     {
+      "Id": "180398813",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Right Island.wav",
+      "CachePath": "SFX/Right Island_818F3B66.wem"
+     },
+     {
+      "Id": "227302318",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Far Left Island.wav",
+      "CachePath": "SFX/Far Left Island_818F3B66.wem"
+     },
+     {
+      "Id": "234682599",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Tile 4.wav",
+      "CachePath": "SFX/Footstep Tile 4_818F3B66.wem"
+     },
+     {
+      "Id": "246515327",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Hover Platform.wav",
+      "CachePath": "SFX/Hover Platform_818F3B66.wem"
+     },
+     {
+      "Id": "263801812",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Grass 1.wav",
+      "CachePath": "SFX/Footstep Grass 1_818F3B66.wem"
+     },
+     {
+      "Id": "323601419",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pickup Coin 2.wav",
+      "CachePath": "SFX/Pickup Coin 2_818F3B66.wem"
+     },
+     {
+      "Id": "336750467",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Razor ball.wav",
+      "CachePath": "SFX/Razor ball_818F3B66.wem"
+     },
+     {
+      "Id": "343614498",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Tile 2.wav",
+      "CachePath": "SFX/Footstep Tile 2_818F3B66.wem"
+     },
+     {
+      "Id": "370570957",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Indoor Ambiance.wav",
+      "CachePath": "SFX/Indoor Ambiance_FBC78EF0.wem"
+     },
+     {
+      "Id": "381499910",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Wood 4.wav",
+      "CachePath": "SFX/Footstep Wood 4_818F3B66.wem"
+     },
+     {
+      "Id": "422689892",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Metal 1.wav",
+      "CachePath": "SFX/Footstep Metal 1_818F3B66.wem"
+     },
+     {
+      "Id": "425173319",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Metal 3.wav",
+      "CachePath": "SFX/Footstep Metal 3_818F3B66.wem"
+     },
+     {
+      "Id": "434762028",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Grass 3.wav",
+      "CachePath": "SFX/Footstep Grass 3_818F3B66.wem"
+     },
+     {
+      "Id": "485450665",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pickup Jump Boost.wav",
+      "CachePath": "SFX/Pickup Jump Boost_818F3B66.wem"
+     },
+     {
+      "Id": "485924804",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pickup Gem 4.wav",
+      "CachePath": "SFX/Pickup Gem 4_818F3B66.wem"
+     },
+     {
+      "Id": "614550683",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Metal 4.wav",
+      "CachePath": "SFX/Footstep Metal 4_818F3B66.wem"
+     },
+     {
+      "Id": "625376650",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Wood 5.wav",
+      "CachePath": "SFX/Footstep Wood 5_818F3B66.wem"
+     },
+     {
+      "Id": "647588729",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pickup Gem 3.wav",
+      "CachePath": "SFX/Pickup Gem 3_818F3B66.wem"
+     },
+     {
+      "Id": "656507598",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Victory 1.wav",
+      "CachePath": "SFX/Victory 1_818F3B66.wem"
+     },
+     {
+      "Id": "686540819",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Key Object 1.wav",
+      "CachePath": "SFX/Key Object 1_818F3B66.wem"
+     },
+     {
+      "Id": "689084751",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Grass 2.wav",
+      "CachePath": "SFX/Footstep Grass 2_818F3B66.wem"
+     },
+     {
+      "Id": "731532586",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pickup Coin 4.wav",
+      "CachePath": "SFX/Pickup Coin 4_818F3B66.wem"
+     },
+     {
+      "Id": "734443898",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Key Object 2.wav",
+      "CachePath": "SFX/Key Object 2_818F3B66.wem"
+     },
+     {
+      "Id": "753911463",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "leather 1.wav",
+      "CachePath": "SFX/leather 1_818F3B66.wem"
+     },
+     {
+      "Id": "759971244",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Locked Door.wav",
+      "CachePath": "SFX/Locked Door_818F3B66.wem"
+     },
+     {
+      "Id": "763856132",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Door.wav",
+      "CachePath": "SFX/Door_818F3B66.wem"
+     },
+     {
+      "Id": "774842803",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Leather 2.wav",
+      "CachePath": "SFX/Leather 2_818F3B66.wem"
+     },
+     {
+      "Id": "782356365",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pickup Coin 1.wav",
+      "CachePath": "SFX/Pickup Coin 1_818F3B66.wem"
+     },
+     {
+      "Id": "791433670",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Wood 1.wav",
+      "CachePath": "SFX/Footstep Wood 1_818F3B66.wem"
+     },
+     {
+      "Id": "807090495",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pickup Coin 3.wav",
+      "CachePath": "SFX/Pickup Coin 3_818F3B66.wem"
+     },
+     {
+      "Id": "843460373",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Outdoor ambiance 1.wav",
+      "CachePath": "SFX/Outdoor ambiance 1_FBC78EF0.wem"
+     },
+     {
+      "Id": "881787295",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Door Switch.wav",
+      "CachePath": "SFX/Door Switch_818F3B66.wem"
+     },
+     {
+      "Id": "900700282",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Grass 5.wav",
+      "CachePath": "SFX/Footstep Grass 5_818F3B66.wem"
+     },
+     {
+      "Id": "904826762",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Middle Island.wav",
+      "CachePath": "SFX/Middle Island_818F3B66.wem"
+     },
+     {
+      "Id": "910640824",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Metal 5.wav",
+      "CachePath": "SFX/Footstep Metal 5_818F3B66.wem"
+     },
+     {
+      "Id": "918015162",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Metal 2.wav",
+      "CachePath": "SFX/Footstep Metal 2_818F3B66.wem"
+     },
+     {
+      "Id": "945169113",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Error 2.wav",
+      "CachePath": "SFX/Error 2_818F3B66.wem"
+     },
+     {
+      "Id": "954206916",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pickup Gem 1.wav",
+      "CachePath": "SFX/Pickup Gem 1_818F3B66.wem"
+     },
+     {
+      "Id": "987328309",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Key Object 3.wav",
+      "CachePath": "SFX/Key Object 3_818F3B66.wem"
+     },
+     {
+      "Id": "996964449",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep Tile 1.wav",
+      "CachePath": "SFX/Footstep Tile 1_818F3B66.wem"
+     },
+     {
+      "Id": "1032864968",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pickup Gem 2.wav",
+      "CachePath": "SFX/Pickup Gem 2_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1409529853",
+      "Name": "Play_Ball",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Ball",
+      "GUID": "{EE27DC8A-C0E9-496D-A137-046182EEA9A5}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.58772916",
+      "DurationMax": "0.58772916",
+      "MediaRefs": [
+       {
+        "Id": "336750467"
+       }
+      ]
+     },
+     {
+      "Id": "1660008929",
+      "Name": "Play_Door_Open",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Door_Open",
+      "GUID": "{AD69FFD9-E546-473E-89DB-C43C54E6EF12}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.4704375",
+      "DurationMax": "1.4704375",
+      "MediaRefs": [
+       {
+        "Id": "763856132"
+       }
+      ]
+     },
+     {
+      "Id": "645747949",
+      "Name": "Play_Door_Open_01",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Door_Open_01",
+      "GUID": "{2EDBA1A9-509E-4B9F-B7C3-7A18AA2F2EEC}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.4704375",
+      "DurationMax": "1.4704375",
+      "MediaRefs": [
+       {
+        "Id": "763856132"
+       }
+      ]
+     },
+     {
+      "Id": "3286063061",
+      "Name": "Play_Door_Switch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Door_Switch",
+      "GUID": "{A399A9C0-77EB-4838-A0F3-477328B07CD7}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.77622914",
+      "DurationMax": "0.77622914",
+      "MediaRefs": [
+       {
+        "Id": "881787295"
+       }
+      ]
+     },
+     {
+      "Id": "453263153",
+      "Name": "Play_Door_Switch_01",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Door_Switch_01",
+      "GUID": "{3B7A4802-CBEC-4075-9623-57E56659C649}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.77622914",
+      "DurationMax": "0.77622914",
+      "MediaRefs": [
+       {
+        "Id": "881787295"
+       }
+      ]
+     },
+     {
+      "Id": "2713813216",
+      "Name": "Play_Error",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Error",
+      "GUID": "{AE04D54B-545A-459E-9A08-CAFF8AE35EF9}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.31685418",
+      "DurationMax": "0.7658542",
+      "MediaRefs": [
+       {
+        "Id": "18406024"
+       },
+       {
+        "Id": "945169113"
+       }
+      ]
+     },
+     {
+      "Id": "1230055225",
+      "Name": "Play_Far_Left_Island",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Far_Left_Island",
+      "GUID": "{20FB2582-22CD-423E-ACE2-12D7124811DF}",
+      "MaxAttenuation": "100",
+      "DurationType": "OneShot",
+      "DurationMin": "10.592354",
+      "DurationMax": "10.592354",
+      "MediaRefs": [
+       {
+        "Id": "227302318"
+       }
+      ]
+     },
+     {
+      "Id": "1192348102",
+      "Name": "Play_Hover_Platform",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Hover_Platform",
+      "GUID": "{BF7AF147-D013-4E2E-8149-82AD2EF4E9A2}",
+      "DurationType": "OneShot",
+      "DurationMin": "9",
+      "DurationMax": "9",
+      "MediaRefs": [
+       {
+        "Id": "246515327"
+       }
+      ]
+     },
+     {
+      "Id": "729649122",
+      "Name": "Play_Indoor_Ambiance",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Indoor_Ambiance",
+      "GUID": "{A73F45EB-0358-4FA3-BD93-034B0813DF90}",
+      "MaxAttenuation": "100",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "370570957"
+       }
+      ]
+     },
+     {
+      "Id": "2213986770",
+      "Name": "Play_Jump_Boost",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Jump_Boost",
+      "GUID": "{A46682B7-5778-4EDF-A2A8-CD98DD4B8BD5}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.1882915",
+      "DurationMax": "2.1882915",
+      "MediaRefs": [
+       {
+        "Id": "485450665"
+       }
+      ]
+     },
+     {
+      "Id": "4146920247",
+      "Name": "Play_Key_Object",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Key_Object",
+      "GUID": "{03C166E3-EB61-4AED-8E50-C575FA4D3468}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.3448958",
+      "DurationMax": "1.629375",
+      "MediaRefs": [
+       {
+        "Id": "686540819"
+       },
+       {
+        "Id": "734443898"
+       },
+       {
+        "Id": "987328309"
+       }
+      ]
+     },
+     {
+      "Id": "3819241463",
+      "Name": "Play_Life_movements",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Life_movements",
+      "GUID": "{80A0B47B-5890-41F5-88AE-C96B96AE7419}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.84097916",
+      "DurationMax": "1.2172709",
+      "MediaRefs": [
+       {
+        "Id": "177395097"
+       },
+       {
+        "Id": "753911463"
+       },
+       {
+        "Id": "774842803"
+       }
+      ]
+     },
+     {
+      "Id": "281597619",
+      "Name": "Play_Locked_Door",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Locked_Door",
+      "GUID": "{66B4E77E-9864-435D-81B7-1A79978B7990}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.484875",
+      "DurationMax": "1.484875",
+      "MediaRefs": [
+       {
+        "Id": "759971244"
+       }
+      ]
+     },
+     {
+      "Id": "4115239783",
+      "Name": "Play_Locked_Door_01",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Locked_Door_01",
+      "GUID": "{6716B77D-6B08-4802-82B3-035A100CF0E3}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.484875",
+      "DurationMax": "1.484875",
+      "MediaRefs": [
+       {
+        "Id": "759971244"
+       }
+      ]
+     },
+     {
+      "Id": "1816880083",
+      "Name": "Play_Middle_Island",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Middle_Island",
+      "GUID": "{9F4069E5-48BD-43CC-AEB6-F1B6E93CB352}",
+      "MaxAttenuation": "100",
+      "DurationType": "OneShot",
+      "DurationMin": "10.604167",
+      "DurationMax": "10.604167",
+      "MediaRefs": [
+       {
+        "Id": "904826762"
+       }
+      ]
+     },
+     {
+      "Id": "1615481189",
+      "Name": "Play_Outdoor_ambiance_1",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Outdoor_ambiance_1",
+      "GUID": "{5645CD79-5475-453F-8F04-1420AC46B23A}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "843460373"
+       }
+      ]
+     },
+     {
+      "Id": "3079184149",
+      "Name": "Play_Play_Checkpoint",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Play_Checkpoint",
+      "GUID": "{8BB0F323-4581-4DEF-8F6A-DB596D960A78}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.6978542",
+      "DurationMax": "1.6978542",
+      "MediaRefs": [
+       {
+        "Id": "168620245"
+       }
+      ]
+     },
+     {
+      "Id": "2307584948",
+      "Name": "Play_Play_Coin",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Play_Coin",
+      "GUID": "{9BF3F13F-F502-40E0-9A77-955D272A8231}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.3964375",
+      "DurationMax": "0.7208125",
+      "MediaRefs": [
+       {
+        "Id": "323601419"
+       },
+       {
+        "Id": "731532586"
+       },
+       {
+        "Id": "782356365"
+       },
+       {
+        "Id": "807090495"
+       }
+      ]
+     },
+     {
+      "Id": "78981188",
+      "Name": "Play_Play_Gem",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Play_Gem",
+      "GUID": "{DB0C9FAF-12C6-4D30-8F14-472817868428}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.5408958",
+      "DurationMax": "0.6703542",
+      "MediaRefs": [
+       {
+        "Id": "485924804"
+       },
+       {
+        "Id": "647588729"
+       },
+       {
+        "Id": "954206916"
+       },
+       {
+        "Id": "1032864968"
+       }
+      ]
+     },
+     {
+      "Id": "3911321608",
+      "Name": "Play_Right_Island",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Right_Island",
+      "GUID": "{AFDA0696-9485-4CF5-9426-9814EE5F27A9}",
+      "MaxAttenuation": "100",
+      "DurationType": "OneShot",
+      "DurationMin": "10.6005",
+      "DurationMax": "10.6005",
+      "MediaRefs": [
+       {
+        "Id": "180398813"
+       }
+      ]
+     },
+     {
+      "Id": "2756138950",
+      "Name": "Play_Surfaces",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Surfaces",
+      "GUID": "{F63E05F1-378B-40DF-8450-901CEC998FF5}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.3503125",
+      "DurationMax": "0.89016664",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "1127519437",
+         "Id": "2473969246",
+         "GUID": "{8C800323-99D8-42A3-85D8-123435EDA0D7}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "422689892"
+         },
+         {
+          "Id": "425173319"
+         },
+         {
+          "Id": "614550683"
+         },
+         {
+          "Id": "910640824"
+         },
+         {
+          "Id": "918015162"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "1127519437",
+         "Id": "2637588553",
+         "GUID": "{FC7CA83E-9F05-4A9A-BA7A-9A7A12590C37}",
+         "Default": "true"
+        },
+        "MediaRefs": [
+         {
+          "Id": "28701570"
+         },
+         {
+          "Id": "35634750"
+         },
+         {
+          "Id": "234682599"
+         },
+         {
+          "Id": "343614498"
+         },
+         {
+          "Id": "996964449"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "1127519437",
+         "Id": "4248645337",
+         "GUID": "{7D613051-7B09-4DE1-A41C-8AB847D33F09}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "59755238"
+         },
+         {
+          "Id": "263801812"
+         },
+         {
+          "Id": "434762028"
+         },
+         {
+          "Id": "689084751"
+         },
+         {
+          "Id": "900700282"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "1127519437",
+         "Id": "2058049674",
+         "GUID": "{59B71185-6209-44A0-B5F1-93082811509B}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "75423021"
+         },
+         {
+          "Id": "102449246"
+         },
+         {
+          "Id": "381499910"
+         },
+         {
+          "Id": "625376650"
+         },
+         {
+          "Id": "791433670"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Id": "2453267296",
+      "Name": "Play_Victory",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Victory",
+      "GUID": "{68DCB032-62D9-471E-9359-18C0D9BFDE74}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.5727916",
+      "DurationMax": "5.5727916",
+      "MediaRefs": [
+       {
+        "Id": "656507598"
+       }
+      ]
+     },
+     {
+      "Id": "1136018332",
+      "Name": "Player_Run",
+      "ObjectPath": "\\Events\\Default Work Unit\\Player_Run",
+      "GUID": "{B4683A16-0721-4570-BD24-B85953CDF8EB}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.3503125",
+      "DurationMax": "0.5006875",
+      "MediaRefs": [
+       {
+        "Id": "28701570"
+       },
+       {
+        "Id": "35634750"
+       },
+       {
+        "Id": "234682599"
+       },
+       {
+        "Id": "343614498"
+       },
+       {
+        "Id": "996964449"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1493153371",
+      "Name": "PlayerSpeed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\PlayerSpeed",
+      "GUID": "{6CDB8776-725A-4AFB-840D-27EA17BF267F}"
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "1127519437",
+      "Name": "Player_Surfaces",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Player_Surfaces",
+      "GUID": "{883CEFE7-1189-4B9E-9F3B-1E4C6419229F}",
+      "Switches": [
+       {
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Player_Surfaces\\Wood",
+        "GUID": "{59B71185-6209-44A0-B5F1-93082811509B}"
+       },
+       {
+        "Id": "2473969246",
+        "Name": "Metal",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Player_Surfaces\\Metal",
+        "GUID": "{8C800323-99D8-42A3-85D8-123435EDA0D7}"
+       },
+       {
+        "Id": "2637588553",
+        "Name": "Tile",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Player_Surfaces\\Tile",
+        "GUID": "{FC7CA83E-9F05-4A9A-BA7A-9A7A12590C37}"
+       },
+       {
+        "Id": "4248645337",
+        "Name": "Grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Player_Surfaces\\Grass",
+        "GUID": "{7D613051-7B09-4DE1-A41C-8AB847D33F09}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{8498DD31-116F-F46C-10F7-7516EFF08A20}"
+ }
+}

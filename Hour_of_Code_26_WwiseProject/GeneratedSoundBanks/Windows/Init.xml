@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{AA9A67CA-5539-FF74-B071-82D2C88C6650}">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" ObjectPath="\Audio Devices\Default Work Unit\No_Output" GUID="{1B3CC794-D9CE-406B-B48A-749FCEE8F904}" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" ObjectPath="\Audio Devices\Default Work Unit\System" GUID="{6EBE7DF9-21E6-4F30-8FE8-C4A0161BD5D8}" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus" GUID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
+			</Busses>
+			<GameParameters>
+				<GameParameter Id="1493153371" Name="PlayerSpeed" ObjectPath="\Game Parameters\Default Work Unit\PlayerSpeed" GUID="{6CDB8776-725A-4AFB-840D-27EA17BF267F}"/>
+			</GameParameters>
+			<SwitchGroups>
+				<SwitchGroup Id="1127519437" Name="Player_Surfaces" ObjectPath="\Switches\Default Work Unit\Player_Surfaces" GUID="{883CEFE7-1189-4B9E-9F3B-1E4C6419229F}">
+					<Switches>
+						<Switch Id="2058049674" Name="Wood" ObjectPath="\Switches\Default Work Unit\Player_Surfaces\Wood" GUID="{59B71185-6209-44A0-B5F1-93082811509B}"/>
+						<Switch Id="2473969246" Name="Metal" ObjectPath="\Switches\Default Work Unit\Player_Surfaces\Metal" GUID="{8C800323-99D8-42A3-85D8-123435EDA0D7}"/>
+						<Switch Id="2637588553" Name="Tile" ObjectPath="\Switches\Default Work Unit\Player_Surfaces\Tile" GUID="{FC7CA83E-9F05-4A9A-BA7A-9A7A12590C37}"/>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Player_Surfaces\Grass" GUID="{7D613051-7B09-4DE1-A41C-8AB847D33F09}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="1303153727" Name="Player_Surfaces_Run" ObjectPath="\Switches\Default Work Unit\Player_Surfaces_Run" GUID="{9C19050A-3691-4D62-86E8-788FA27A51FC}">
+					<Switches>
+						<Switch Id="340271938" Name="Walking" ObjectPath="\Switches\Default Work Unit\Player_Surfaces_Run\Walking" GUID="{3058C48F-43E6-44D7-9B2A-12527C1EEF6F}"/>
+						<Switch Id="3863236874" Name="Running" ObjectPath="\Switches\Default Work Unit\Player_Surfaces_Run\Running" GUID="{784E4EC0-F435-4022-A923-EC43A26B1C9E}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{A722E228-FB2D-9AA5-03A9-899E5CFD39A0}</FileHash>
+</SoundBanksInfo>

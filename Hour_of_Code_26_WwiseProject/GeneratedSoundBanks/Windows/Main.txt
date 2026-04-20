@@ -1,0 +1,88 @@
+Event	ID	Name			Wwise Object Path	Notes
+	78981188	Play_Play_Gem			\Default Work Unit\Play_Play_Gem	
+	281597619	Play_Locked_Door			\Default Work Unit\Play_Locked_Door	
+	453263153	Play_Door_Switch_01			\Default Work Unit\Play_Door_Switch_01	
+	645747949	Play_Door_Open_01			\Default Work Unit\Play_Door_Open_01	
+	729649122	Play_Indoor_Ambiance			\Default Work Unit\Play_Indoor_Ambiance	
+	1136018332	Player_Run			\Default Work Unit\Player_Run	
+	1192348102	Play_Hover_Platform			\Default Work Unit\Play_Hover_Platform	
+	1230055225	Play_Far_Left_Island			\Default Work Unit\Play_Far_Left_Island	
+	1409529853	Play_Ball			\Default Work Unit\Play_Ball	
+	1615481189	Play_Outdoor_ambiance_1			\Default Work Unit\Play_Outdoor_ambiance_1	
+	1660008929	Play_Door_Open			\Default Work Unit\Play_Door_Open	
+	1816880083	Play_Middle_Island			\Default Work Unit\Play_Middle_Island	
+	2213986770	Play_Jump_Boost			\Default Work Unit\Play_Jump_Boost	
+	2307584948	Play_Play_Coin			\Default Work Unit\Play_Play_Coin	
+	2453267296	Play_Victory			\Default Work Unit\Play_Victory	
+	2713813216	Play_Error			\Default Work Unit\Play_Error	
+	2756138950	Play_Surfaces			\Default Work Unit\Play_Surfaces	
+	3079184149	Play_Play_Checkpoint			\Default Work Unit\Play_Play_Checkpoint	
+	3286063061	Play_Door_Switch			\Default Work Unit\Play_Door_Switch	
+	3819241463	Play_Life_movements			\Default Work Unit\Play_Life_movements	
+	3911321608	Play_Right_Island			\Default Work Unit\Play_Right_Island	
+	4115239783	Play_Locked_Door_01			\Default Work Unit\Play_Locked_Door_01	
+	4146920247	Play_Key_Object			\Default Work Unit\Play_Key_Object	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1127519437	Player_Surfaces			\Default Work Unit\Player_Surfaces	
+
+Switch	ID	Name	Switch Group			Notes
+	2058049674	Wood	Player_Surfaces			
+	2473969246	Metal	Player_Surfaces			
+	2637588553	Tile	Player_Surfaces			
+	4248645337	Grass	Player_Surfaces			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1493153371	PlayerSpeed			\Default Work Unit\PlayerSpeed	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	18406024	Error	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Error_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Doors\Error\Error		147140
+	28701570	Footstep tile 3	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep tile 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Tile\Run\Footstep tile 3		79524
+	35634750	Footstep Tile 5	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Tile 5_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Tile\Run\Footstep Tile 5		96228
+	59755238	Footstep Grass 4	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Grass 4_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Grass\Run\Footstep Grass 4		113588
+	75423021	Footstep Wood 2	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Wood 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Wood\Run\Footstep Wood 2		120500
+	102449246	Footstep Wood 3	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Wood 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Wood\Run\Footstep Wood 3		100432
+	168620245	Checkpoint	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Checkpoint_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Checkpoints\Play_Checkpoint\Checkpoint		326084
+	177395097	Fabric 1	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Fabric 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Life movement\Life movements\Fabric 1		233812
+	180398813	Right Island	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Right Island_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Moveable\Island\Right Island		2035392
+	227302318	Far Left Island	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Far Left Island_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Moveable\Island\Far Left Island		2033828
+	234682599	Footstep Tile 4	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Tile 4_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Tile\Run\Footstep Tile 4		75828
+	246515327	Hover Platform	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Hover Platform_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Moveable\Hover Platform\Hover Platform		1728096
+	263801812	Footstep Grass 1	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Grass 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Grass\Run\Footstep Grass 1		171008
+	323601419	Pickup Coin 2	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Pickup Coin 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Play_Coin\Pickup Coin 2		119108
+	336750467	Razor ball	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Razor ball_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Moveable\Ball\Razor ball		112940
+	343614498	Footstep Tile 2	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Tile 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Tile\Run\Footstep Tile 2		81368
+	370570957	Indoor Ambiance	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Indoor Ambiance_FBC78EF0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Indoor Ambiance		17739740
+	381499910	Footstep Wood 4	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Wood 4_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Wood\Run\Footstep Wood 4		104584
+	422689892	Footstep Metal 1	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Metal 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Metal\Run\Footstep Metal 1		87976
+	425173319	Footstep Metal 3	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Metal 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Metal\Run\Footstep Metal 3		92828
+	434762028	Footstep Grass 3	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Grass 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Grass\Run\Footstep Grass 3		100452
+	485450665	Pickup Jump Boost	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Pickup Jump Boost_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Jump Boost\Pickup Jump Boost		420248
+	485924804	Pickup Gem 4	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Pickup Gem 4_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Play_Gem\Pickup Gem 4		103948
+	614550683	Footstep Metal 4	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Metal 4_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Metal\Run\Footstep Metal 4		103204
+	625376650	Footstep Wood 5	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Wood 5_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Wood\Run\Footstep Wood 5		122756
+	647588729	Pickup Gem 3	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Pickup Gem 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Play_Gem\Pickup Gem 3		119808
+	656507598	Victory	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Victory 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Victory\Victory		1070072
+	686540819	Key Object 1	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Key Object 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Key Object\Key Object 1		281880
+	689084751	Footstep Grass 2	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Grass 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Grass\Run\Footstep Grass 2		132272
+	731532586	Pickup Coin 4	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Pickup Coin 4_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Play_Coin\Pickup Coin 4		118392
+	734443898	Key Object 2	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Key Object 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Key Object\Key Object 2		312936
+	753911463	leather 1	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\leather 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Life movement\Life movements\leather 1		167376
+	759971244	Locked Door	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Locked Door_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Doors\Locked Door\Locked Door		285192
+	763856132	Door	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Door_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Doors\Door_Open\Door		282420
+	774842803	Leather 2	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Leather 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Life movement\Life movements\Leather 2		161564
+	782356365	Pickup Coin 1	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Pickup Coin 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Play_Coin\Pickup Coin 1		138492
+	791433670	Footstep Wood 1	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Wood 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Wood\Run\Footstep Wood 1		95588
+	807090495	Pickup Coin 3	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Pickup Coin 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Play_Coin\Pickup Coin 3		76212
+	843460373	Outdoor ambiance 1	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Outdoor ambiance 1_FBC78EF0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Outdoor ambiance 1		17739740
+	881787295	Door Switch	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Door Switch_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Doors\Door_Switch\Door Switch		149132
+	900700282	Footstep Grass 5	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Grass 5_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Grass\Run\Footstep Grass 5		135560
+	904826762	Middle Island	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Middle Island_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Moveable\Island\Middle Island		2036096
+	910640824	Footstep Metal 5	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Metal 5_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Metal\Run\Footstep Metal 5		104988
+	918015162	Footstep Metal 2	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Metal 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Metal\Run\Footstep Metal 2		105276
+	945169113	Error 2	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Error 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Doors\Error\Error 2		60932
+	954206916	Pickup Gem 1	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Pickup Gem 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Play_Gem\Pickup Gem 1		110812
+	987328309	Key Object 3	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Key Object 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Key Object\Key Object 3		258316
+	996964449	Footstep Tile 1	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Footstep Tile 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Surfaces\Play_Tile\Run\Footstep Tile 1		67356
+	1032864968	Pickup Gem 2	Y:\Desktop\Desktop - Susie’s iMac\Final-Of-Code-main\Hour_of_Code_26_WwiseProject\.cache\Windows\SFX\Pickup Gem 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pickups\Play_Gem\Pickup Gem 2		128804
+
